@@ -49,7 +49,6 @@ if($filas){
 header("location:home.php");
 }
         else{
-
             ?>
             <?php
             include("index.php");
